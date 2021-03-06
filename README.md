@@ -21,11 +21,12 @@ As a senior data analyst I've been given access to the complete data from their 
 
 * Generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows  the number of total mice for each treatment regimen throughout the course of the study.
 
-![lineplot](lineplot.png)
+![boxplot](boxplot.png)
 
   * **NOTE:** These plots should look identical.
 
 * Generate a pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study.
+*
 ![piechart](piechart.png)+
 
  **NOTE:** These plots almost look identical.
@@ -38,6 +39,8 @@ As a senior data analyst I've been given access to the complete data from their 
   **Hint**: All four box plots should be within the same figure. Use this [Matplotlib documentation page](https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py) for help with changing the style of the outliers.
 
 * Select a mouse that was treated with Capomulin and generate a line plot of time point versus tumor volume for that mouse.
+
+![lineplot](lineplot.png)
 
 * Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 
