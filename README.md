@@ -20,13 +20,15 @@ As a senior data analyst I've been given access to the complete data from their 
 * Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
 * Generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows  the number of total mice for each treatment regimen throughout the course of the study.
+
 ![lineplot](lineplot.png)
 
   * **NOTE:** These plots should look identical.
 
 * Generate a pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study.
-![piechart](piechart.png)
-  * **NOTE:** These plots alomost look identical.
+![piechart](piechart.png)+
+
+ **NOTE:** These plots almost look identical.
 
 * Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculate the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens.
 
@@ -38,8 +40,11 @@ As a senior data analyst I've been given access to the complete data from their 
 * Select a mouse that was treated with Capomulin and generate a line plot of time point versus tumor volume for that mouse.
 
 * Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
+
 ![scatterplot](scatterplot.png)
+
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+
 ![linearplot](linearplot.png)
 
 **Note** See the [starter workbook](Pymaceuticals/pymaceuticals_starter.ipynb) for help on what modules to import and expected format of the notebook.
