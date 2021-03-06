@@ -21,7 +21,7 @@ As a senior data analyst I've been given access to the complete data from their 
 
 * Generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows  the number of total mice for each treatment regimen throughout the course of the study.
 
-![boxplot](boxplot.png)
+![barplot](barplot.png)
 
   * **NOTE:** These plots should look identical.
 
@@ -35,6 +35,7 @@ As a senior data analyst I've been given access to the complete data from their 
 
 * Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
 
+![boxplot](boxplot.png)
 
   **Hint**: All four box plots should be within the same figure. Use this [Matplotlib documentation page](https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py) for help with changing the style of the outliers.
 
