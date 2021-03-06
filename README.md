@@ -1,4 +1,4 @@
-# Pharmaceutical Mice Tests on Maplotlib and Python
+# Pharmaceutical Mice Tests and Analysis on Maplotlib/Python
 
 What good is data without a good plot to tell the story?
 Let's take Python with Matplotlib and apply it to a real-world situation and dataset:
